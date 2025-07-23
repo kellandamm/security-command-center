@@ -2,7 +2,7 @@
 
 Enhanced Security Command Center with comprehensive historical monitoring and real-time threat visualization.
 
-**🚀 Live Demo**: https://lemon-island-0ce3cf80f.1.azurestaticapps.net  
+**🚀 Live Demo**: https://zealous-bush-0e1721e0f.1.azurestaticapps.net  
 **📊 Repository**: https://github.com/kellandamm/security-command-center
 
 ## Features
@@ -46,7 +46,7 @@ npm run preview
 
 The application is automatically deployed to Azure Static Web Apps via GitHub Actions when code is pushed to the main branch.
 
-**Live Demo**: https://lemon-island-0ce3cf80f.1.azurestaticapps.net
+**Live Demo**: https://zealous-bush-0e1721e0f.1.azurestaticapps.net
 
 ### Accessing the Admin Dashboard
 
