@@ -2,7 +2,8 @@
 
 Enhanced Security Command Center with comprehensive historical monitoring and real-time threat visualization.
 
-**🚀 Live Demo**: https://lemon-island-0ce3cf80f.1.azurestaticapps.net
+**🚀 Live Demo**: https://lemon-island-0ce3cf80f.1.azurestaticapps.net  
+**📊 Repository**: https://github.com/kellandamm/security-command-center
 
 ## Features
 
