@@ -34,7 +34,9 @@ jobs:
         run: npm ci
 
       - name: Build application
-        run: npm run build
+        run: |
+          npm run build
+          cp public/staticwebapp.config.json dist/
         
       - name: Verify build output
         run: |
@@ -50,9 +52,8 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_ZEALOUS_BUSH_0E1721E0F }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "/" 
+          app_location: "./dist" 
           api_location: "" 
-          output_location: "dist" 
           skip_app_build: true
           skip_api_build: true
 
