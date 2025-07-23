@@ -5,6 +5,7 @@ Enhanced Security Command Center with comprehensive historical monitoring and re
 **🚀 Live Demo**: https://zealous-bush-0e1721e0f.1.azurestaticapps.net  
 **📊 Repository**: https://github.com/kellandamm/security-command-center  
 **🔄 Deployment**: Automated via GitHub Actions to Azure Static Web Apps
+**🔧 Status**: Updated with fresh deployment token
 
 ## Features
 
